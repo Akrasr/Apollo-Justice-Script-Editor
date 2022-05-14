@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apollo Justice Script Editor", "Apollo Justice Script Editor\Apollo Justice Script Editor.csproj", "{FDDB05DB-19F2-4482-A3FB-492D46E4B21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDDB05DB-19F2-4482-A3FB-492D46E4B21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDB05DB-19F2-4482-A3FB-492D46E4B21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDB05DB-19F2-4482-A3FB-492D46E4B21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDB05DB-19F2-4482-A3FB-492D46E4B21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA799533-83F9-428E-8B5B-D2BFDDA3D176}
+	EndGlobalSection
+EndGlobal

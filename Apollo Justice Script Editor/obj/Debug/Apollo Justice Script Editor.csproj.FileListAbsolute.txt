@@ -1,0 +1,10 @@
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\bin\Debug\Apollo Justice Script Editor.exe.config
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\bin\Debug\Apollo Justice Script Editor.exe
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\bin\Debug\Apollo Justice Script Editor.pdb
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo Justice Script Editor.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo_Justice_Script_Editor.Form1.resources
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo_Justice_Script_Editor.Properties.Resources.resources
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo Justice Script Editor.csproj.GenerateResource.cache
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo Justice Script Editor.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo Justice Script Editor.exe
+C:\Users\userpc\source\repos\Apollo Justice Script Editor\Apollo Justice Script Editor\obj\Debug\Apollo Justice Script Editor.pdb
