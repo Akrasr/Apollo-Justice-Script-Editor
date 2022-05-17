@@ -166,7 +166,7 @@ namespace Apollo_Justice_Script_Editor
             [0xb8] = "y",
             [0xca] = "z",
             [0xef] = "_", //Some special marks
-            [0xe1] = "ペ",
+            [0xe1] = "`",
             [0xe0] = "‥",
             [0xd6] = " ", //and a space too 
             [0xed] = "◇",
