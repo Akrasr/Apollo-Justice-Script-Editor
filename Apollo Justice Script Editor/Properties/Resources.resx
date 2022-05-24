@@ -119,7 +119,7 @@
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="font_atlas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\font_atlas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\font_atlas-2f02a54b187e54fed9f3444bfbfb7092-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="font_info" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unnamed asset-e62c942efa54d4497bdd56076b699760-1.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>

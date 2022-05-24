@@ -82,7 +82,7 @@ namespace Apollo_Justice_Script_Editor
                 int width = FontInfo.GetInstance().CharacterSize - cds[i].rm - cds[i].lm;
                 short code = (short)(cds[i].code + 144);
                 codes.Add(code);
-                if (code == 0xd6)
+                if (cds[i].isSpace)
                 {
                     width -= 17;
                 }
@@ -105,6 +105,10 @@ namespace Apollo_Justice_Script_Editor
         public Image CutGlyph(FontInfo.CharacterData cd)
         {
             Rectangle rct = new Rectangle((int)cd.rx, (int)FontInfo.GetInstance().TextureSizeY - (int)cd.ry - (int)cd.rh, (int)cd.rw, (int)cd.rh + 1);
+            if (cd.isSpace)
+            {
+                rct = new Rectangle((int)FontInfo.GetInstance().TextureSizeX - 2, (int)FontInfo.GetInstance().TextureSizeY - 2, 1, 1);
+            }
             Bitmap bmp = Resources.font_atlas as Bitmap; //The character's place on atlas is saved in rct
             if (bmp == null)
                 throw new ArgumentException("No bitmap");

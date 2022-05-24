@@ -90,5 +90,8 @@
   <ItemGroup>
     <None Include="Resources\MessageWindow_Bottom.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\font_atlas-2f02a54b187e54fed9f3444bfbfb7092-1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
