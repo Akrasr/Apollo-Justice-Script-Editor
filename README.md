@@ -4,7 +4,7 @@ The script editor for Apollo Justice mobile port unpacked script. (Script unpack
 This program is made for AA:AJ mobile port script. 
 
 The font format is FontInfo + Atlas. This program contains all information about these files.
-The font contains all glyphs from original mobile port + Russian glyphs.
+The font contains all glyphs from original mobile port.
 
 The script, that this program works with, is extracted from the game with modded dlgTool (https://github.com/Akrasr/dlgTool-AJ-Android-Edition).
 
